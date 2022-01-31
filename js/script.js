@@ -41,19 +41,7 @@ function validation() {
   }
 }
 
-// Script для отправки формы (ajax)
 
-$("#signform").submit(function(e){
-  e.preventDefault();
-  $.ajax({
-      type: "POST",
-      url: "wdh_send_form.php",
-      data: $("#signform").serialize(),
-      success: function(data) {
-          alert('письмо').html(data);
-      }
-  });
-});
 
 
 
