@@ -8,8 +8,8 @@ Adaptive Landing Page  with slider for Tasty Cookery / Адаптивный ле
 
 # Install instruction
 
-* git clone https://github.com/anSem-11/slider-for-Medgorod-Belberry-.git
-* cd slider-for-Medgorod-Belberry-
+* git clone https://github.com/anSem-11/Tasty-Cookery-Landing-page.git
+* cd Tasty-Cookery-Landing-page
 * npm i
 * npm start
 * open localhost:3000 at browser
